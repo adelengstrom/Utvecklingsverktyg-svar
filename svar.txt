@@ -1,0 +1,3 @@
+-Stash and pop your changes: git stash pop
+
+- What is git reflog? Reflog = Reference logs is a mechanism that git uses to keep track of updates to the tip of branches. 
